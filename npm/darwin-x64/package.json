@@ -1,0 +1,18 @@
+{
+  "name": "rust-event-loop-lagger-darwin-x64",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "rust-event-loop-lagger.darwin-x64.node",
+  "files": [
+    "rust-event-loop-lagger.darwin-x64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
